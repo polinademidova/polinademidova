@@ -11,5 +11,6 @@
 ## 📌 Мои проекты:
 
 
+https://github.com/polinademidova/Neural-networks-and-computer-vision
 
 ## 📫 Контакты: [Telegram](https://t.me/prosto_liptonn)
