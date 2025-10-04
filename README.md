@@ -10,7 +10,9 @@
 
 ## 📌 Мои проекты:
 [Telegram Bot](https://github.com/polinademidova/Telegram-bot)
+
 [Flask Blog](https://github.com/polinademidova/Flask-Blog)
+
 [Neural networks and computer vision](https://github.com/polinademidova/Neural-networks-and-computer-vision)
 
 ## 📫 Контакты: [Telegram](https://t.me/prosto_liptonn)
