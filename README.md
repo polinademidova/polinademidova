@@ -9,8 +9,8 @@
 🗄️ SQLite (работа с базами данных)
 
 ## 📌 Мои проекты:
-
-
+https://github.com/polinademidova/Telegram-Bot
+https://github.com/polinademidova/Flask-Blog
 https://github.com/polinademidova/Neural-networks-and-computer-vision
 
 ## 📫 Контакты: [Telegram](https://t.me/prosto_liptonn)
