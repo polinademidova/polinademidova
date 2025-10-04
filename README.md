@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! 👋 Я Полина Демидова
+💡 Python-разработчик, интересуюсь Backend и созданием полезных сервисов.
 
-<!--
-**polinademidova/polinademidova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Мои Hard Skills:
+🐍 Python (включая ООП и алгоритмы)
+🤖 Telegram Bot API (pyrogram)
+🎮 PyGame (создание простых игр)
+🌐 Flask (разработка REST API)
+🗄️ SQLite (работа с базами данных)
 
-Here are some ideas to get you started:
+## 📌 Мои проекты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Контакты: [Telegram](https://t.me/prosto_liptonn)
